@@ -1,0 +1,11 @@
+.hero {
+  background: url("../../../public/T.png");
+  background-size: cover; /* or 'contain' based on your preference */
+  background-position: left;
+  width: 1323px;
+height: 744.188px;
+transform: rotate(30deg);
+flex-shrink: 0;
+mix-blend-mode: overlay;
+opacity: 0.5;
+}
